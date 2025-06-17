@@ -1,7 +1,8 @@
-pandas
-numpy
-tensorflow
-streamlit
 os
 pickle
 sklearn
+pandas==2.2.2
+numpy==1.26.4
+tensorflow==2.14.0 # Make sure this matches your chosen Python in runtime.txt
+streamlit==1.36.0
+scikit-learn==1.4.2
